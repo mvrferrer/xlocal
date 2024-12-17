@@ -1,0 +1,17 @@
+/* Remove header and footer styles */
+header, footer {
+    display: none;
+}
+
+/* Add styles for the logo */
+.logo {
+    display: block;
+    margin: 0 auto 1rem auto;
+    max-width: 150px;
+    height: auto;
+}
+
+/* Adjust padding around the main container */
+main {
+    padding: 1rem;
+}
